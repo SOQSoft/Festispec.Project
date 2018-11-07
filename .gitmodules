@@ -1,0 +1,15 @@
+[submodule "Festispec.App"]
+	path = Festispec.App
+	url = https://github.com/SOQSoft/Festispec.App
+[submodule "Festispec.Web"]
+	path = Festispec.Web
+	url = https://github.com/SOQSoft/Festispec.Web
+[submodule "Festispec.Domain"]
+	path = Festispec.Domain
+	url = https://github.com/SOQSoft/Festispec.Domain
+[submodule "Festispec.Database"]
+	path = Festispec.Database
+	url = https://github.com/SOQSoft/Festispec.Database
+[submodule "Festispec.Api"]
+	path = Festispec.Api
+	url = https://github.com/SOQSoft/Festispec.Api
